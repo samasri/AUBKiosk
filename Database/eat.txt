@@ -1,0 +1,272 @@
+﻿mcdonald's-->0-->2.6-->university hotel building - bliss street - hamra - beirut-->american - fast food - burger-->15000-->10 am to 12 midnight (mon-thu - sun) - 10 am to 1 am...-->Mcdonald's.jpg-->0-->0
+farouj abou sami-->0-->2.9-->main street - bourj abi haidar - beirut-->lebanese - fast food-->7500-->11 am to 10 pm (mon-sat) - 11 am to 8 pm (sun)-->Farouj Abou Sami.jpg-->0-->1
+starbucks-->1-->3.4-->hamra square center - main street - hamra - beirut-->cafe - desserts-->12500-->6:30 am to 11:30 pm-->Starbucks.jpg-->1-->1
+paul-->0-->3.6-->1866 tower and suites - ground floor - bliss street - hamra - beirut-->french - cafe - desserts - bakery-->37500-->7 am to 12 midnight-->Paul.jpg-->1-->0
+bella napoli pizzeria-->0-->2.9-->salah el dine street - raouche - beirut-->italian - pizza-->25000-->12 noon to 12 midnight-->Bella Napoli Pizzeria.jpg-->0-->1
+rice and spice-->0-->3-->mme curie street - facing bristol hotel - koreitem - beirut-->chinese-->20000-->12 noon to 11 pm-->Rice and Spice.jpg-->0-->1
+pizza hut-->0-->3-->charles de gaule street - next to sgbl bank - raouche - beirut-->pizza - italian-->20000-->11 am to 1 am (mon-thu - sun) - 11 am to 2 am (fri-sat)-->Pizza Hut.jpg-->0-->0
+dany's-->0-->2.9-->the alleyway - makdessi street - hamra - beirut-->pub food-->30000-->10 am to 1 am (mon-thu) - 10 am to 2 am (fri-sat) - 5...-->Dany's.jpg-->1-->0
+score bowling and games-->0-->2.8-->crowne plaza center - lg - main street - hamra - beirut-->cafe-->5000-->12 noon to 12 midnight-->Score Bowling and Games.jpg-->0-->0
+mandi hadramout-->0-->2.9-->australia street - raouche - beirut-->lebanese - iraqi - gulf food-->25000-->24 hours-->Mandi Hadramout.jpg-->1-->1
+beit ward-->1-->2.9-->charles de gaule street - raouche - beirut-->lebanese - bakery - steakhouse - burger-->45000-->8 am to 6 am-->Beit Ward.jpg-->-->1
+cru-->0-->3.3-->matta building - makdessi street - hamra - beirut-->french - finger food-->37500-->6 pm to 12 midnight (mon-sat) - sun closed-->Cru.jpg-->0-->0
+pomodoro-->0-->3.7-->zaitunay bay - minet el hosn - beirut-->italian - pizza-->40000-->10 am to 12 midnight-->Pomodoro.jpg-->0-->1
+the hotdog faktory-->0-->3.1-->intersection of jeanne d'arc and makhoul street - hamra - beirut-->fast food-->16500-->12 noon to 12 midnight (mon-thu) - 12 noon to 2 am...-->The Hotdog Faktory.jpg-->0-->1
+jaa-->0-->4.1-->myrtem house building - mexico street - next to haigazian university - clemenceau - beirut-->thai - indian-->32500-->11 am to 11 pm (mon-sat) - sun closed-->Jaa.jpg-->0-->1
+cucina-->0-->2.5-->caragoula street - minet el hosn - beirut-->italian-->112500-->12 noon to 11 pm (mon-fri) - 9 am to 11:30 pm (sat-sun)-->Cucina.jpg-->1-->1
+maison de la gaufre-->0-->2.4-->bliss street - facing aub main gate - hamra - beirut-->desserts-->5000-->7 am to 1 am (mon-thu - sun) - 7 am to 3 am (fri-sat)-->Maison De La Gaufre.jpg-->0-->0
+the 12 bar-->0-->3.7-->makdessi street - hamra - beirut-->drinks only-->30000-->5:30 pm to 3 am-->The 12 Bar.jpg-->1-->0
+cozmo cafe-->1-->3-->zaitunay bay - minet el hosn - beirut-->japanese - american - italian - cafe-->42500-->10 am to 12 midnight-->Cozmo Cafe.jpg-->0-->1
+mouajjanat aya-->0-->2.7-->mehieddine al khayyat street - al zarif - sanayeh - beirut-->lebanese - bakery-->2500-->6 am to 3 pm (mon-sat) - 7 am to 3 pm (sun)-->Mouajjanat Aya.jpg-->0-->1
+food 101-->0-->2.7-->bliss street - hamra - beirut-->italian - american - healthy food - juices-->17500-->8 am to 1 am-->Food 101.jpg-->1-->1
+the blue note cafe-->0-->3.2-->makhoul street - facing al sayde church - hamra - beirut-->lebanese - american-->50000-->12 noon to 1 am (mon-sat) - sun closed-->The Blue Note Cafe.jpg-->1-->0
+roadster diner-->0-->3.7-->crowne plaza center - gf - main street - hamra - beirut-->american - burger - healthy food-->32500-->9:30 am to 1 am-->Roadster Diner.jpg-->1-->1
+burger king-->0-->2.4-->bliss street - hamra - beirut-->american - fast food - burger-->15000-->11 am to 12 midnight (mon-thu - sun) - 11 am to 3 am...-->Burger King.jpg-->1-->0
+aasir al hamra-->-->2.8-->main street - hamra - beirut-->juices - beverages-->5000-->7 am to 1 am-->Aasir Al Hamra.jpg-->0-->1
+project b-->1-->3.1-->mahatma ghandi street - hamra - beirut-->american-->25000-->10 am to 1 am (mon-sat) - 12 noon to 1 am (sun)-->Project b.jpg-->1-->1
+caffe mondo - phoenicia hotel-->0-->3.7-->phoenicia hotel - ground floor - fakhrelddine street - minet el hosn - beirut-->italian - cafe-->52500-->12 noon to 4 pm - 7 pm to 11 pm (tue-fri - sun) - 12...-->Caffe Mondo - Phoenicia Hotel.jpg-->1-->1
+crew hut-->0-->3.7-->main street - facing hotel plaza - hamra - beirut-->healthy food - deli-->10000-->9 am to 4 am (mon-sat) - 12 noon to 4 am (sun)-->Crew Hut.jpg-->0-->1
+secrets-->0-->4-->takieddine street - next to sparks - koreitem - beirut-->desserts - patisserie-->5000-->8 am to 10 pm-->Secrets.jpg-->0-->0
+marrouche-->0-->3.5-->main street - manara - beirut-->lebanese-->9000-->10 am to 2 am-->Marrouche.jpg-->0-->1
+le sam-->0-->3.6-->building khoury - bliss street - hamra - beirut-->lebanese - fast food-->6000-->7 am to 1 am-->Le Sam.jpg-->0-->0
+dardachat-->1-->2.8-->main street - ain mreisse - beirut-->lebanese - american - cafe-->30000-->24 hours-->Dardachat.jpg-->1-->1
+abo waseem-->0-->3.3-->main street - hamra - beirut-->lebanese-->15000-->12 noon to 12 midnight-->Abo Waseem.jpg-->1-->1
+domino's pizza-->0-->3.3-->center adisson - bliss street - hamra - beirut-->pizza - fast food-->20000-->11 am to 12 midnight-->Domino's Pizza.jpg-->0-->0
+meito lebanon-->1-->3.7-->bayview hotel - ground floor - main street - ain mreisse - beirut-->cafe - desserts - german-->10000-->7 am to 12 midnight-->Meito Lebanon.jpg-->1-->1
+napoletana-->0-->3.1-->main street - facing bank audi - hamra - beirut-->italian-->37500-->10 am to 11:30 pm (mon-thu - sun) - 10 am to 12...-->Napoletana.jpg-->0-->1
+kaiten-->0-->2.6-->main street - hamra - beirut-->japanese-->30000-->12 noon to 11:30 pm (mon-thu - sun) - 12 noon to 12...-->Kaiten.jpg-->0-->0
+clemenceau market-->0-->2.9-->place dr. muhieddine barghout - next to cmc hospital - clemenceau - beirut-->lebanese - fast food - deli-->6000-->7:30 am to 12 midnight-->Clemenceau Market.jpg-->0-->0
+al hindi - warwick palm beach hotel-->0-->3.8-->warwick palm beach hotel - lobby - main street - ain mreisse - beirut-->indian-->50000-->12 noon to 12 midnight-->Al Hindi - Warwick Palm Beach Hotel.jpg-->1-->1
+al khabbaz-->0-->2.5-->ibn sina street - ain mreisse - beirut-->lebanese - bakery-->4000-->24 hours-->Al Khabbaz.jpg-->0-->0
+walimet warde-->0-->3.1-->marble tower hotel - makdessi street - hamra - beirut-->lebanese-->30000-->12 noon to 11 pm (mon-wed) - 12 noon to 3 am...-->Walimet Warde.jpg-->1-->1
+barbar-->0-->3.4-->omar ben abdel aziz street - hamra - beirut-->lebanese - american - falafel - juices - shawarma - bakery-->12500-->24 hours-->Barbar.jpg-->0-->1
+tonino-->0-->4.1-->bliss street - hamra - beirut-->desserts-->7500-->7:30 am to 4 am (mon-sat) - 11 am to 4 am (sun)-->Tonino.jpg-->1-->0
+dipndip-->0-->3.4-->bliss street - near bank audi - hamra - beirut-->desserts-->12500-->9 am to 2 am-->Dipndip.jpg-->1-->1
+captain's cabin-->0-->2.9-->adonis street - hamra - beirut-->drinks only-->30000-->5 pm to 2 am-->Captain's Cabin.jpg-->0-->1
+pain d'or-->0-->3.4-->takieddine street - near blom bank - koreitem - beirut-->bakery - desserts - lebanese - patisserie-->10000-->6 am to 11 pm-->Pain D'or.jpg-->0-->0
+arous al bahr-->0-->2.7-->main street - manara - beirut-->lebanese-->30000-->8 am to 1 am-->Arous Al Bahr.jpg-->1-->1
+l'autre bistro-->0-->3.7-->tarabay building - al makhoul street - hamra - beirut-->french - italian - pizza - mediterranean-->30000-->12 noon to 12 midnight-->L'autre Bistro.jpg-->0-->1
+bardo-->0-->3.5-->myrtem house building - mexico street - kantari - clemenceau - beirut-->asian - mediterranean-->45000-->10 am to 2 am-->Bardo.jpg-->1-->1
+dar bistro and books-->1-->4.1-->wardieh street - hamra - beirut-->mediterranean - healthy food - french - cafe-->37500-->8 am to 12 midnight-->Dar Bistro and Books.jpg-->1-->1
+ka3kaya-->0-->3.2-->makdessi street - hamra - beirut-->lebanese - pizza - american - cafe-->25000-->8:30 am to 3 am (mon-sat) - 2:30 pm to 3 am (sun)-->Ka3kaya.jpg-->1-->1
+pizza hut delivery-->0-->2.2-->bliss street - hamra - beirut-->pizza - fast food-->20000-->11 am to 12 midnight-->Pizza Hut Delivery.jpg-->0-->0
+calibri pub-->0-->3.4-->makdessi street - near bank of syria - hamra - beirut-->pub food-->25000-->4 pm to 2 am (mon-thu - sun) - 4 pm to 4 am (fri-sat)-->Calibri Pub.jpg-->1-->1
+national bakeries le sage-->0-->3-->bliss street - hamra - beirut-->bakery - fast food-->5000-->24 hours-->National Bakeries Le Sage.jpg-->0-->0
+hani's snack-->0-->3.1-->karakas street - manara - beirut-->american - fast food-->12500-->12 noon to 1 am-->Hani's Snack.jpg-->0-->1
+casper and gambini's-->0-->3.6-->abdel aziz street - hamra - beirut-->american - italian - cafe-->50000-->9 am to 9:30 pm (mon-sat) - 10 am to 9:30 pm (sun)-->Casper and Gambini's.jpg-->1-->1
+second cup-->1-->3.3-->mahatma gandhi street - hamra - beirut-->cafe - desserts-->10000-->6:15 am to 12:15 am-->Second Cup.jpg-->1-->1
+ales and tales bar cantine-->0-->3.6-->makdessi street - hamra - beirut-->british - lebanese - cafe - pub food-->35000-->8 am to 2 am (mon-sat) - 5 pm to 2 am (sun)-->Ales and Tales Bar Cantine.jpg-->1-->1
+al rifai juice-->0-->2.5-->main street - manara - beirut-->beverages - juices-->5000-->24 hours-->Al Rifai Juice.jpg-->0-->0
+al beik patisserie-->0-->3.5-->kattan building - khaled chehab street - koreitem - beirut-->desserts-->6000-->6 am to 2 pm-->Al Beik Patisserie.jpg-->0-->0
+music hall-->0-->3.1-->starco center - block b - minet el hosn - beirut-->french - finger food-->112500-->10 pm to 4 am-->Music Hall.jpg-->0-->1
+le pacheur - al sayyad-->0-->3.6-->choucri ghanem street - facing le vendome intercontinental hotel - ain mreisse - beirut-->seafood - lebanese-->60000-->12 noon to 1 am-->Le Pacheur - Al Sayyad.jpg-->1-->1
+chicken factory-->0-->3.4-->makdessi street - hamra - beirut-->lebanese - fast food - pizza - healthy food - beverages - juices-->15000-->11 am to 2 am-->Chicken Factory.jpg-->0-->1
+the boulevard - four seasons hotel beirut-->0-->3-->four seasons hotel beirut - ground floor - wafic sinno street - minet el hosn - beirut-->cafe - desserts-->37000-->8 am to 12 midnight-->The Boulevard - Four Seasons Hotel Beirut.jpg-->1-->0
+subway-->0-->3.5-->mahatma gandhi street - hamra - beirut-->fast food-->15000-->9 am to 12 midnight-->Subway.jpg-->0-->1
+amal bohsali-->0-->3.4-->alfred nobel street - hamra - beirut-->desserts-->7000-->8 am to 8 pm (mon-sat) - sun closed-->Amal Bohsali.jpg-->1-->1
+la fitness diner-->0-->3.4-->takiedine street - koreitem - beirut-->healthy food - fast food-->22500-->10 am to 12 midnight (mon-sat) - 4 pm to 12 midnight...-->La Fitness Diner.jpg-->1-->1
+bliss house-->0-->2.6-->bliss street - hamra - beirut-->lebanese - fast food - shawarma - desserts - ice cream - beverages - juices-->10000-->6 am to 3 am-->Bliss House.jpg-->0-->0
+burj al hamam - movenpick hotels and resorts-->0-->3.5-->movenpick hotels and resorts - 10th floor - general de gaulle street - raouche - beirut-->lebanese-->50000-->12 noon to 12 midnight-->Burj Al Hamam - Movenpick Hotels and Resorts.jpg-->1-->1
+ichkhanian-->0-->3.6-->zoghbi building - hussein beyham street - sanayeh - beirut-->armenian - bakery-->7500-->8 am to 4 pm-->Ichkhanian.jpg-->1-->0
+paste and taste-->0-->2.9-->myrtem house building - mexico street - next to haigazian university - clemenceau - beirut-->lebanese - fast food - burger-->10000-->8 am to 11 pm (mon-sat) - sun closed-->Paste And Taste.jpg-->0-->0
+kraydes-->0-->2.3-->berlin street - raouche - beirut-->lebanese - seafood-->40000-->10 am to 2 am-->Kraydes.jpg-->1-->1
+idriss supermarket-->0-->2.7-->al oussoud building - sourati street - hamra - beirut-->chinese - indian - seafood-->750-->7:30 am to 10 pm (mon-sat) - 7:30 am to 7 pm (sun)-->Idriss Supermarket.jpg-->0-->0
+cookielicious-->0-->3.8-->sadat street - hamra - beirut-->desserts-->6000-->10 am to 9 pm (mon-sat) - sun closed-->Cookielicious.jpg-->0-->0
+snack ghalayini-->0-->2.4-->leon street - hamra - beirut-->lebanese - fast food - bakery-->7500-->11 am to 4 am-->Snack Ghalayini.jpg-->0-->1
+alia-->0-->3-->estral center - main street - hamra - beirut-->lebanese - american-->35000-->8 am to 12 midnight-->Alia.jpg-->1-->1
+coast american grill and bar-->0-->3.7-->zaitunay bay - minet el hosn - beirut-->american-->32500-->9 am to 11:30 pm (mon-thu) - 9 am to 12 midnight...-->Coast American Grill and  Bar.jpg-->0-->1
+hardee's-->0-->3-->australia street - raouche - beirut-->american - fast food - burger-->15000-->12 noon to 4 am-->Hardee's.jpg-->1-->0
+snack fahita-->0-->2.9-->medhat bacha street - sanayeh - beirut-->fast food-->10000-->6 am to 11 pm-->Snack Fahita.jpg-->0-->1
+golden sheep restaurant-->0-->2.8-->souraty street - hamra - beirut-->lebanese-->15000-->9 am to 7:30 pm-->Golden Sheep Restaurant.jpg-->0-->0
+c-lounge - bayview hotel-->0-->3.5-->bayview hotel - rooftop - main road - ain mreisse - beirut-->finger food-->50000-->5:30 pm to 2 am-->C-lounge - Bayview Hotel.jpg-->1-->1
+al hamra snack-->0-->3.2-->sidani street - hamra - beirut-->lebanese - bakery-->4000-->6:30 am to 8 pm (mon-sat) - 6:30 am to 2 pm (sun)-->Al Hamra Snack.jpg-->0-->0
+al wazzan-->0-->3.6-->khaled ben al waleed street - koreitem - beirut-->lebanese - fast food - shawarma - burger - beverages - juices-->15000-->11:30 am to 2 am-->Al Wazzan.jpg-->0-->1
+bread republic-->1-->3.4-->main street - near cinema strand - hamra - beirut-->italian - american-->25000-->7:30 am to 1 am-->Bread Republic.jpg-->1-->1
+socrate-->0-->3.8-->al sidani street - hamra - beirut-->lebanese-->45000-->9 am to 10 pm-->Socrate.jpg-->1-->1
+alban wa ajban tala-->0-->3.1-->ibn sina street - ain mreisse - beirut-->lebanese-->5000-->6:30 am to 9 pm-->Alban Wa Ajban Tala.jpg-->0-->0
+bandakji-->0-->2.5-->sadat street - hamra - beirut-->lebanese - bakery - cafe-->37500-->10 am to 5 am-->Bandakji.jpg-->1-->1
+clubhouse-->0-->3.2-->sadat street - facing american lebanese university lower gate - hamra - beirut-->american - fast food-->15000-->12:30 pm to 12:30 am-->Clubhouse.jpg-->1-->1
+st. elmo's-->0-->3.5-->zaitunay bay - minet el hosn - beirut-->american - seafood-->50000-->12 noon to 11:30 pm (mon-fri) - 10 am to 11:30 pm...-->St. Elmo's.jpg-->0-->1
+dottore l'antica pizzeria-->0-->4.1-->antoine gemayyel street - hamra - beirut-->italian-->30000-->12 noon to 11:45 pm-->Dottore L'antica Pizzeria.jpg-->1-->1
+food style-->0-->2.8-->takieddine el solh street - facing nabil net - koreitem - beirut-->american - mexican-->20000-->12 noon to 12 midnight-->Food Style.jpg-->0-->0
+aunty salwa-->0-->3-->abdel aziz street - hamra - beirut-->lebanese - healthy food-->13000-->8 am to 4:30 pm-->Aunty Salwa.jpg-->0-->1
+kahwet leila-->1-->3.9-->omar ben abdel aziz street - hamra - beirut-->lebanese-->30000-->9:30 am to 12 midnight-->Kahwet Leila.jpg-->1-->1
+taj al moulouk-->0-->3.5-->al daouk building - bliss street - hamra - beirut-->desserts - ice cream - beverages - juices-->7500-->8 am to 12 midnight-->Taj Al Moulouk.jpg-->0-->1
+snack chehab-->0-->3.1-->abdulla al tannoukhi - hamra - beirut-->lebanese-->5000-->9 am to 7 pm (mon-sat) - sun closed-->Snack Chehab.jpg-->0-->1
+ahmad aouni hallab and sons-->0-->3.5-->charles de gaule street - raouche - beirut-->desserts-->5000-->06:30 am to 12 midnight-->Ahmad Aouni Hallab and Sons.jpg-->0-->1
+Feb-30-->0-->3.4-->the alleyway - makdessi street - hamra - beirut-->finger food-->40000-->5 pm to 2 am-->Feb-30.jpg-->1-->1
+de prague-->1-->3.9-->makdessi street - near hsbc - hamra - beirut-->american - italian-->45000-->9 am to 1 am-->De Prague.jpg-->1-->0
+fiber-->0-->3.7-->al sidani street - hamra - beirut-->healthy food-->25000-->8 am to 11 pm (mon-sat) - 12 noon to 11 pm (sun)-->Fiber.jpg-->1-->0
+sushi ko - golden tulip serenada hotel-->0-->2.8-->golden tulip serenada hotel - abdul aziz street - hamra - beirut-->japanese-->35000-->12 noon to 11:30 pm-->Sushi Ko - Golden Tulip Serenada Hotel.jpg-->1-->0
+al fakhani supermarket-->0-->3-->sadat street - near the police station - hamra - beirut-->lebanese - fast food - bakery-->5000-->6 am to 12 midnight (mon-sat) - 7 am to 12 midnight...-->Al Fakhani Supermarket.jpg-->0-->0
+al forno-->0-->3.6-->zaitunay bay - minet el hosn - beirut-->italian-->42500-->12 noon to 11:30 pm (mon-thu - sun) - 11:30 am to 12...-->Al Forno.jpg-->0-->1
+casablanca-->0-->3.8-->dar mreisseh - ain mreisse - beirut-->asian-->90000-->12:30 pm to 3 pm - 8 pm to 11 pm (tue-sat) - 11 am to...-->Casablanca.jpg-->0-->0
+mashawiholic-->0-->3.3-->emile edde street - hamra - beirut-->lebanese-->7500-->12 noon to 12 midnight-->Mashawiholic.jpg-->0-->0
+light house-->0-->2.9-->araidati street - manara - beirut-->lebanese - burger - fast food-->20000-->12 noon to 12 midnight-->Light House.jpg-->0-->0
+pickles-->0-->3.2-->abdel baki street - facing cavalier hotel - hamra - beirut-->pub food-->35000-->7 pm to 2 am-->Pickles.jpg-->0-->0
+citizen smith-->0-->2.6-->makdessi street - hamra - beirut-->drinks only-->25000-->5 pm to 2 am-->Citizen Smith.jpg-->1-->0
+zaatar w zeit-->1-->3.7-->blue building - bliss street - hamra - beirut-->lebanese - healthy food - bakery-->17500-->24 hours-->Zaatar w Zeit.jpg-->1-->0
+ki-->1-->3.3-->commodore street - hamra - beirut-->cafe-->15000-->8 am to 1 am-->Ki.jpg-->1-->0
+soto-->0-->3.5-->abdel a'aal street - hamra - beirut-->japanese-->37500-->12 noon to 11:45 pm-->Soto.jpg-->0-->1
+101 gourmet-->0-->3.2-->spears street - kantari - sanayeh - beirut-->american - fast food - desserts-->6000-->12 noon to 2 am (mon-tue - sun) - 12 noon to 4 am...-->101 Gourmet.jpg-->0-->0
+daoud basha - lancaster plaza beirut-->0-->3-->lancaster plaza beirut - ground floor - raouche - beirut-->lebanese-->30000-->12 noon to 5 am-->Daoud Basha - Lancaster Plaza Beirut.jpg-->0-->1
+tasty diner-->0-->2.2-->jeanne d'arc street - hamra - beirut-->italian - american - burger - cafe-->30000-->9 am to 3 am (mon-sat) - 12 noon to 3 am (sun)-->Tasty Diner.jpg-->1-->1
+sea salt-->0-->3.5-->choucri ghanem street - ain mreisse - beirut-->seafood-->50000-->12 noon to 12 midnight-->Sea Salt.jpg-->1-->1
+classic burger joint-->0-->4-->main street - hamra - beirut-->burger-->20000-->12 noon to 11:30 pm (mon-thu) - 12 noon to 12...-->Classic Burger Joint.jpg-->1-->1
+cafe hamra-->1-->2.7-->main street - hamra - beirut-->lebanese - italian - american - cafe-->25000-->9 am to 12 midnight (mon-thu - sun) - 9 am to 12:30 am...-->Cafe Hamra.jpg-->1-->1
+dbaibo cafe-resto-->1-->2.9-->charles de gaulle street - facing sgbl bank - raouche - beirut-->lebanese - cafe-->27500-->8 am to 12 midnight-->Dbaibo Cafe-resto.jpg-->1-->1
+cafe younes-->1-->3.8-->abdel aziz street - hamra - beirut-->beverages - fast food - burger - cafe-->22500-->8 am to 11 pm-->Cafe Younes.jpg-->1-->0
+croissant al cheikh-->0-->3.5-->emile edde street - hamra - beirut-->bakery-->2500-->7 am to 10 pm-->Croissant Al Cheikh.jpg-->0-->0
+universal snack-->0-->4-->jeanne d'arc building - bliss street - hamra - beirut-->american - lebanese - fast food-->15000-->12 noon to 11 pm-->Universal Snack.jpg-->0-->0
+kababji grill-->0-->3.5-->building saidi church - bliss street - hamra - beirut-->lebanese-->30000-->8 am to 12 midnight-->Kababji Grill.jpg-->0-->-->
+dunkin donuts-->1-->3.4-->saroulla center - main street - hamra - beirut-->desserts - cafe-->7000-->6 am to 1 am (mon-sat) - 7 am to 1 am (sun)-->Dunkin Donuts.jpg-->1-->0
+mashrou7a-->0-->2.7-->sadat street - hamra - beirut-->lebanese - bakery-->4000-->24 hours-->Mashrou7a.jpg-->0-->0
+the sandwich company-->0-->3.2-->ibrahim bou adal street - next to american eagle - hamra - beirut-->deli-->10000-->3 pm to 6 am-->The Sandwich Company.jpg-->0-->0
+particulier-->0-->3.3-->al sidani street - hamra - beirut-->desserts - patisserie-->10000-->8 am to 7 pm-->Particulier.jpg-->0-->0
+barometre-->0-->3-->makhoul street - hamra - beirut-->lebanese-->15000-->6 pm to 2 am-->Barometre.jpg-->0-->1
+zenjabeel coffee forum-->1-->3.1-->lagos center - sadat street - facing fransabank - hamra - beirut-->cafe - deli-->10000-->8 am to 2 am-->Zenjabeel Coffee Forum.jpg-->1-->0
+abou afif-->0-->3.7-->al sidani street - hamra - beirut-->lebanese-->5000-->8 am to 6 pm (mon-sat) - sun closed-->Abou Afif.jpg-->0-->1
+kalaa chicken-->0-->3.9-->al maghraby building - kalaa street - koreitem - beirut-->lebanese - american - fast food - burger - falafel - shawarma-->10000-->8 am to 1 am-->Kalaa Chicken.jpg-->0-->0
+rue 53-->1-->3.5-->al sidani street - hamra - beirut-->deli - beverages - cafe - healthy food-->15000-->9 am to 12 midnight (mon-sat) - sun closed-->Rue 53.jpg-->1-->1
+uncle deek-->9-->2.9-->dar el-mreisseh street - ain mreisse - beirut-->beverages - cafe-->5000-->24 hours-->Uncle Deek.jpg-->0-->1
+the coffee bean and tea leaf-->1-->2.6-->estral center - main street - hamra - beirut-->cafe - desserts-->7500-->6:30 am to 12 midnight (mon-thu - sun) - 6:30 am to...-->The Coffee Bean and Tea Leaf.jpg-->1-->1
+ny cupcakes-->0-->3-->arope insurance building - sanayeh - beirut-->desserts - patisserie-->5000-->10 am to 10 pm-->Ny Cupcakes.jpg-->1-->1
+whistles-->1-->3.1-->al sidani street - hamra - beirut-->lebanese - fast food-->15000-->9 am to 10 pm (mon-sat) - sun closed-->Whistles.jpg-->0-->0
+al sherif-->0-->3.7-->abdulla al tanoukhi street - hamra - beirut-->lebanese-->10000-->8 am to 8 pm-->Al Sherif.jpg-->0-->0
+smoking bun-->0-->3.8-->mohammad abdul baki street - hamra - beirut-->burger-->17500-->12 noon to 2 am (mon-wed - sun) - 12 noon to 3 am...-->Smoking Bun.jpg-->0-->0
+latte art-->0-->3-->bliss street - hamra - beirut-->cafe-->5000-->24 hours-->Latte Art.jpg-->0-->0
+amal bohsali gourmet-->0-->3.6-->takieddine el solh street - koreitem - beirut-->cafe - deli - desserts - ice cream-->22500-->7 am to 10 pm-->Amal Bohsali Gourmet.jpg-->1-->1
+restaurant abou hassan-->0-->3.2-->salah el din street - raouche - beirut-->lebanese-->6000-->8 am to 12 midnight-->Restaurant Abou Hassan.jpg-->0-->0
+la casa di pasta-->0-->3.3-->al achkar building - talaat joumblat - facing cmc hospital - clemenceau - beirut-->italian-->37500-->12 noon to 11:30 pm (mon-sat) - 12 noon to 11 pm (sun)-->La Casa Di Pasta.jpg-->0-->1
+stage-->0-->3.4-->abdel a'aal street - hamra - beirut-->italian - french-->52500-->5 pm to 1:45 am (mon-sat) - sun closed-->Stage.jpg-->1-->0
+maison de la gaufre-->0-->1.9-->zaitunay bay - minet el hosn - beirut-->desserts-->5000-->8 am to 1 am-->Maison De La Gaufre.jpg-->0-->0
+bistrobar live-->0-->4-->the courtyard - makdessi street - hamra - beirut-->french - italian-->50000-->5 pm to 5 am-->Bistrobar Live.jpg-->1-->1
+tomatomatic-->0-->3.8-->main street - hamra - beirut-->pizza-->20000-->12 noon to 11:30 pm-->Tomatomatic.jpg-->0-->0
+set el hesen-->0-->3.8-->main street - ain mreisse - beirut-->lebanese-->50000-->9 am to 2 am-->Set El Hesen.jpg-->1-->1
+la paillote-->0-->3-->main street - ain mreisse - beirut-->seafood-->50000-->12 noon to 12 midnight-->La Paillote.jpg-->1-->0
+bay rock cafe-->0-->2.1-->charles de gaule street - raouche - beirut-->lebanese - seafood - steakhouse-->37500-->8 am to 3 am-->Bay Rock Cafe.jpg-->1-->1
+salon beyrouth-->0-->3.1-->abdel baki street - clemenceau - beirut-->french - american-->40000-->9:30 am to 1 am (mon-thu - sun) - 9:30 am to 2 am...-->Salon Beyrouth.jpg-->1-->1
+university sage-->0-->2.7-->bliss street - hamra - beirut-->fast food - lebanese - bakery-->7500-->7 am to 1:30 am-->University Sage.jpg-->0-->0
+snack faysal-->0-->3.1-->bliss street - facing the police station - hamra - beirut-->lebanese - bakery-->4000-->24 hours-->Snack Faysal.jpg-->0-->1
+yeh frozen yogurt and cafe-->0-->2.5-->fakhreddine street - minet el hosn - beirut-->cafe - desserts-->12500-->9 AM to 1:30 AM-->Yeh Frozen Yogurt and Cafe.jpg-->0-->1
+le cafe-->1-->3-->main street - hamra - beirut-->cafe - lebanese - american - italian-->20000-->9 am to 1 am-->Le Cafe.jpg-->1-->1
+appetito trattoria-->0-->4.2-->mahatma gandhi street - hamra - beirut-->italian-->37500-->12 noon to 12 midnight-->Appetito Trattoria.jpg-->1-->1
+furn ghalayini-->0-->2.6-->leon street - hamra - beirut-->lebanese - fast food - bakery-->7500-->24 hours-->Furn Ghalayini.jpg-->0-->0
+aasir ramadan-->0-->3.1-->spears street - kantari - sanayeh - beirut-->beverages - juices-->3000-->24 hours-->Aasir Ramadan.jpg-->0-->0
+karam al bahr-->0-->3-->zaitunay bay - minet el hosn - beirut-->lebanese - seafood-->90000-->12 noon to 12 midnight-->Karam Al Bahr.jpg-->0-->1
+spaghetteria italiana-->0-->3-->dar el-mreisseh street - ain mreisse - beirut-->italian - seafood-->40000-->12 noon to 11 pm-->Spaghetteria Italiana.jpg-->1-->1
+chocolatine-->0-->3.6-->mayas and chatila building - badr demachkieh street - koreitem - beirut-->desserts - bakery-->15000-->7 am to 10 pm (mon-sat) - 8 am to 10 pm (sun)-->Chocolatine.jpg-->1-->1
+al antabli-->0-->3-->leon street - hamra - beirut-->beverages - juices - desserts - ice cream-->5000-->9 am to 1 am-->Al Antabli.jpg-->0-->1
+neighbors-->0-->3.4-->plaza buidling - makdessi street - hamra - beirut-->finger food-->30000-->5 pm to 5 am-->Neighbors.jpg-->1-->1
+chopsticks-->0-->2.8-->main street - facing saroulla center - hamra - beirut-->chinese-->30000-->11:30 am to 12 midnight-->Chopsticks.jpg-->1-->1
+urbanista-->1-->3.7-->1866 tower and suites - ground floor - bliss street - hamra - beirut-->american - cafe-->25000-->7 am to 12 midnight (mon-sat) - sun closed-->Urbanista.jpg-->1-->1
+la cigale-->0-->3.1-->nehme yafet street - facing napoleon hotel - hamra - beirut-->desserts - bakery - patisserie-->7500-->6:30 am to 9 pm-->La Cigale.jpg-->0-->0
+mannoush-->0-->3.4-->facing lebanese american university upper gate - koreitem - beirut-->lebanese - bakery - fast food-->5000-->7 am to 7 pm-->Mannoush.jpg-->0-->1
+foul time-->0-->3-->australia street - raouche - beirut-->lebanese-->7500-->7:30 am to 11 pm-->Foul Time.jpg-->1-->1
+al baba sweets-->0-->2.8-->takieddine street - facing library al adab and dabbous - koreitem - beirut-->desserts-->10000-->7:45 am to 11 pm-->Al Baba Sweets.jpg-->0-->0
+the beazbee-->0-->3.9-->gefinor center block a - ground floor - clemenceau - beirut-->deli-->37500-->7 am to 10 pm (mon-wed) - 7 am to 12 midnight...-->The Beazbee.jpg-->1-->1
+barbar-->0-->2.9-->spears street - sanayeh - beirut-->lebanese - american - falafel - juices - shawarma - bakery-->12500-->24 hours-->Barbar.jpg-->0-->0
+food style-->0-->3.5-->main street - facing fransabank - hamra - beirut-->american - mexican-->20000-->12 noon to 12 midnight-->Food Style.jpg-->0-->1
+deek duke-->0-->3.8-->crowne plaza center - main street - hamra - beirut-->american-->30000-->11 am to 1 am-->Deek Duke.jpg-->1-->1
+farrouj al abdallah-->0-->3.6-->sidani street - hamra - beirut-->lebanese - fast food-->7500-->12 noon to 12 midnight-->Farrouj Al Abdallah.jpg-->0-->0
+cheikha-->0-->3.6-->leon street - hamra - beirut-->lebanese - fast food-->7500-->7:30 am to 12 midnight-->Cheikha.jpg-->0-->1
+charlie's hot dog-->0-->3.7-->blue building - bliss street - hamra - beirut-->fast food-->7000-->24 hours-->Charlie's Hot Dog.jpg-->0-->0
+furn w mouajjanat al makdessi-->0-->2.8-->abdul aziz street - hamra - beirut-->lebanese - bakery-->4000-->24 hours-->Furn w Mouajjanat Al Makdessi.jpg-->0-->0
+cremino-->0-->3.8-->centre miraj building - roma street - sanayeh - beirut-->desserts - ice cream - patisserie-->5000-->7:30 am to 10:30 pm-->Cremino.jpg-->0-->0
+bodo-->0-->3.5-->main street - hamra - beirut-->pub food-->30000-->6 pm to 6 am-->Bodo.jpg-->0-->1
+falafel karim sahyoun-->0-->3.3-->sidani street - hamra - beirut-->lebanese - fast food - falafel-->5000-->11 am to 11 pm (mon-sat) - sun closed-->Falafel Karim Sahyoun.jpg-->0-->0
+the coffee bean and tea leaf-->1-->3.3-->zaitunay bay - minet el hosn - beirut-->cafe - desserts-->15000-->7 am to 12 midnight (mon-thu - sun) - 7 am to 12:30 am...-->The Coffee Bean and Tea Leaf.jpg-->1-->1
+moti mahal delux-->0-->3.2-->zaitunay bay - minet el hosn - beirut-->indian-->60000-->12 noon to 11:30 pm (mon-thu - sun) - 12 noon to 12...-->Moti Mahal Delux.jpg-->0-->1
+la palma-->0-->3.5-->the courtyard - makdessi street - hamra - beirut-->mexican-->37500-->5 pm to 1 am-->La Palma.jpg-->1-->1
+cappuccino grand cafe-->0-->3.6-->zaitunay bay - minet el hosn - beirut-->italian - american - japanese - spanish - cafe-->30000-->9 am to 1 am-->Cappuccino Grand Cafe.jpg-->1-->1
+let's eat-->0-->2.9-->gefinor center - ground floor 2 - clemenceau - beirut-->pizza - desserts - patisserie - cafe - deli - bakery-->7500-->6:30 am to 5 pm (mon-sat) - sun closed-->Let's Eat.jpg-->0-->1
+london bar-->0-->3.4-->makdessi street - near bank of syria - hamra - beirut-->finger food-->35000-->4:30 pm to 2 am-->London Bar.jpg-->1-->0
+cup and roll-->0-->3.8-->main street - hamra - beirut-->fast food-->20000-->10 am to 12 midnight-->Cup And Roll.jpg-->1-->1
+abou naim-->0-->3.1-->picadelly street - hamra - beirut-->lebanese-->22500-->12 noon to 12 midnight-->Abou Naim.jpg-->1-->1
+rabbit hole-->0-->3.4-->makdessi street - hamra - beirut-->pub food-->30000-->3 pm to 3 am-->Rabbit Hole.jpg-->1-->1
+jeanne d'arc-->0-->3.1-->jeanne d'arc street - hamra - beirut-->bakery - lebanese-->3000-->7 am to 3 pm-->Jeanne D'arc.jpg-->0-->0
+y by yabani-->0-->3-->gefinor center - ground floor - clemenceau - beirut-->japanese-->50000-->12:30 pm to 11 pm-->y By Yabani.jpg-->1-->1
+juice buzz-->0-->3.1-->facing lebanese american university lower gate - koreitem - beirut-->beverages - juices-->5000-->7:30 am to 7:30 pm (mon-fri) - 7:30 am to 4 pm (sat)...-->Juice Buzz.jpg-->1-->1
+c house cafe - milano-->0-->3.4-->charles de gaulle street - raouche - beirut-->italian - cafe-->25000-->7 am to 2 am-->c House Cafe - Milano.jpg-->1-->1
+juicy frutti al wazzan-->0-->3-->khaled ben al waleed street - koreitem - beirut-->lebanese - fast food - shawarma - burger - beverages - juices-->15000-->24 hours-->Juicy Frutti Al Wazzan.jpg-->0-->0
+chocolate bar-->0-->3.8-->hamra square center - main street - hamra - beirut-->cafe - desserts-->12500-->11 am to 2 am-->Chocolate Bar.jpg-->1-->1
+lamb house - hotel mediterrane-->0-->3.6-->hotel mediterranée - first floor - chouran street - manara - beirut-->lebanese - shawarma-->27500-->24 hours-->Lamb House - Hotel Mediterrane.jpg-->1-->1
+bedivere-->0-->4.4-->makdessi building - jeanne d'arc street - hamra - beirut-->american - french-->40000-->9 am to 1 am (mon-sat) - 5 pm to 1 am (sun)-->Bedivere.jpg-->1-->1
+gruen eatery-->0-->3.1-->gefinor center - ground floor - clemenceau - beirut-->italian - burger - steakhouse-->60000-->10 am to 5 pm (mon-sat) - 9 am to 5 pm (sun)-->Gruen Eatery.jpg-->1-->1
+phoenicia saj-->0-->3.1-->mar yasine building - phoenicia street - ain mreisse - beirut-->lebanese - bakery - fast food-->7500-->24 hours-->Phoenicia Saj.jpg-->0-->0
+brick's-->1-->3.6-->makdessi street - hamra - beirut-->american - pub food-->37500-->4 pm to 1 am (mon-thu - sun) - 4 pm to 2 am (fri-sat)-->Brick's.jpg-->1-->1
+li beirut-->0-->3.5-->makdessi street - hamra - beirut-->lebanese-->30000-->6 pm to 2 am-->Li Beirut.jpg-->1-->0
+moscow mule-->0-->2.4-->makdessi street - hamra - beirut-->drinks only-->30000-->4:30 pm to 2 am (mon-thu - sun) - 4:30 pm to 4 am...-->Moscow Mule.jpg-->1-->1
+hardee's-->0-->3-->bliss suite hotel - bliss street - hamra - beirut-->american - fast food - burger-->15000-->12 noon to 2 am-->Hardee's.jpg-->0-->0
+mosaic restaurant - phoenicia hotel-->0-->4.1-->phoenicia hotel - ground floor - fakhrelddine street - minet el hosn - beirut-->lebanese - mediterranean - french-->78000-->7 am to 11 am - 12:30 pm to 3:30 pm - 7:30 pm to 11:30...-->Mosaic Restaurant - Phoenicia Hotel.jpg-->1-->0
+tabboush snack and pastries-->0-->3.3-->al zahraa building - block a - snoubra street - koreitem - beirut-->lebanese - fast food-->7500-->6 am to 11 pm-->Tabboush Snack and Pastries.jpg-->0-->0
+kb doner-->0-->3.9-->bliss street - hamra - beirut-->turkish - fast food - shawarma - juices-->7500-->8 am to 4 am-->Kb Doner.jpg-->0-->0
+hanaa-->0-->3-->lancaster suites - al andalus street - raouche - beirut-->lebanese-->30000-->06:30 am to 11 pm-->Hanaa.jpg-->1-->1
+fume bar - lancaster plaza beirut-->0-->3-->lancaster plaza beirut - 19th floor - raouche - beirut-->lebanese - japanese - italian-->37500-->6:30 am to 2 am-->Fume Bar - Lancaster Plaza Beirut.jpg-->1-->1
+caribou coffee-->1-->4.1-->main street - hamra - beirut-->cafe-->10000-->7 am to 1 am-->Caribou Coffee.jpg-->1-->1
+regusto chez andre-->0-->3.2-->hamra square center - main street - hamra - beirut-->armenian - lebanese-->25000-->11 am to 3 am (mon-sat) - sun closed-->Regusto Chez Andre.jpg-->1-->1
+malak al tawouk-->0-->3.3-->bliss street - hamra - beirut-->lebanese - fast food-->7000-->11 am to 1 am-->Malak Al Tawouk.jpg-->0-->0
+booze bar-->0-->3-->makdessi street - hamra - beirut-->finger food-->30000-->5 pm to 2 am-->Booze Bar.jpg-->1-->0
+curli-q-->1-->3.8-->khawly building - souraty street - hamra - beirut-->desserts - cafe - bakery-->10000-->8 am to 9 pm-->Curli-q.jpg-->1-->1
+pinkberry-->0-->3.9-->zaitunay bay - minet el hosn - beirut-->desserts-->10000-->10 am to 12 midnight (mon-thu - sun) - 10 am to 12:30...-->Pinkberry.jpg-->0-->0
+jaw cafa-->0-->3-->salah el din street - raouche - beirut-->american-->25000-->7 am to 3 am-->Jaw Cafa.jpg-->1-->1
+via sage-->0-->2.4-->lebanese american university lower gate - leon street - facing byblos bank - koreitem - beirut-->american - fast food - lebanese - bakery-->10000-->8 am to 11 pm (mon-sat) - sun closed-->Via Sage.jpg-->1-->1
+popolo-->0-->3.8-->choucri ghanem street - ain mreisse - beirut-->italian-->50000-->12 noon to 12 midnight-->Popolo.jpg-->0-->0
+cafe younes-->1-->3.5-->nehmat yafet street - hamra - beirut-->beverages - fast food - burger - cafe-->22500-->8 am to 11 pm (mon-sat) - 10 am to 11 pm (sun)-->Cafe Younes.jpg-->0-->0
+ferdinand-->0-->4.2-->mahatma gandhi street - hamra - beirut-->burger - pub food-->37500-->5 pm to 1 am-->Ferdinand.jpg-->0-->1
+ichiban express-->0-->2.4-->abdel aziz street - facing center 1711 - hamra - beirut-->japanese-->30000-->12 noon to 11:30 pm (mon-thu - sun) - 12 noon to 12...-->Ichiban Express.jpg-->1-->0
+sydney's club bar and restaurant - le vendame...-->0-->4.1-->le vendôme intercontinental - 9th floor - ain mreisse - beirut-->italian - french - burger-->100000-->24 hours-->Sydney's Club Bar And Restaurant - Le Vendame....jpg-->1-->0
+eau de vie - phoenicia hotel-->0-->3.9-->phoenicia hotel - 11th floor - fakhrelddine street - minet el hosn - beirut-->continental - mediterranean-->125000-->8 pm to 11:30 pm (tue-fri) - 8 pm to 12 midnight...-->Eau De Vie - Phoenicia Hotel.jpg-->1-->0
+main st.-->0-->3.4-->the courtyard - makdessi street - hamra - beirut-->american-->47500-->5 pm to 1 am (mon-thu - sun) - 5 pm to 2:30 am (fri-sat)-->Main St..jpg-->1-->0
+kfc-->0-->2.1-->bliss street - hamra - beirut-->american - fast food-->15000-->11 am to 2 am-->Kfc.jpg-->1-->0
+second cup-->1-->3.2-->charles de gaulle street - near zaitouna pharmacy - raouche - beirut-->cafe - desserts-->10000-->6:30 am to 1 am-->Second Cup.jpg-->1-->1
+sugar daddy's bakery-->0-->4.3-->itani building - takieddine street - koreitem - beirut-->desserts-->5000-->9 AM to 11 PM-->Sugar Daddy's Bakery.jpg-->1-->1
+hani's snack-->0-->2.9-->cairo street - hamra - beirut-->american - fast food-->12500-->12 noon to 11 pm-->Hani's Snack.jpg-->0-->1
+wimpy-->0-->2.9-->picadelly street - hamra - beirut-->american - italian-->17500-->9 am to 12 midnight-->Wimpy.jpg-->1-->1
+bobo-->0-->3.1-->estral center - gf - main street - hamra - beirut-->lebanese-->30000-->6 pm to 1 am (mon-thu - sun) - 6 pm to 3 am (fri-sat)-->Bobo.jpg-->1-->1
+laziz-->0-->2.4-->hamra square center - main street - hamra - beirut-->lebanese-->40000-->9 am to 1 am-->Laziz.jpg-->1-->1
+p.f. chang's-->0-->4-->zaitunay bay - minet el hosn - beirut-->asian - chinese - japanese-->45000-->12 noon to 11:30 pm (mon-thu - sun) - 12 noon to 12...-->P.f. Chang's.jpg-->0-->1
+beit halab-->0-->3.4-->baalbak street - hamra - beirut-->syrian-->15000-->12 noon to 3 am-->Beit Halab.jpg-->0-->1
+university crepy-->0-->3.9-->bliss street - hamra - beirut-->fast food - american - desserts-->7500-->24 hours-->University Crepy.jpg-->0-->0
+top 21 - crowne plaza hotel-->0-->3.3-->crowne plaza hotel - 21st floor - main street - hamra - beirut-->french - italian - lebanese-->60000-->3 pm to 12 midnight-->Top 21 - Crowne Plaza Hotel.jpg-->1-->1
+feluka seafood restaurant and wine bar-->0-->3.3-->sporting club swimming center - manara - beirut 13-35321-->lebanese - seafood-->67500-->12 noon to 12 midnight-->Feluka Seafood Restaurant And Wine Bar.jpg-->1-->1
+breakfast tamim-->0-->3-->makhoul street - hamra - beirut-->lebanese - bakery-->4000-->7 am to 4 pm (mon-sat) - sun closed-->Breakfast Tamim.jpg-->0-->0
+crepaway-->0-->3.7-->hotel plaza - ground floor - mahatma gandhi street - hamra - beirut-->american - burger - desserts-->30000-->9:30 am to 12 midnight (mon-thu - sun) - 9:30 am to...-->Crepaway.jpg-->1-->1
+passion juice-->0-->3.5-->zaitunay bay - minet el hosn - beirut-->beverages - juices-->7500-->10 am to 12:30 am (mon-thu - sun) - 10 am to 1 am...-->Passion Juice.jpg-->0-->1
+mezzyan-->0-->3.1-->rasamni center - main street - hamra - beirut-->lebanese - tapas-->25000-->11 am to 2 am (mon-thu) - 11 am to 3 am (fri-sun)-->Mezzyan.jpg-->1-->1
+tri-s-->0-->3.7-->main street - facing saroulla center - hamra - beirut-->japanese-->30000-->12 noon to 12 midnight-->Tri-s.jpg-->1-->1
+benihana - le commodore hotel-->0-->3.2-->le commodore hotel - baalbak street - hamra - beirut-->japanese-->75000-->12:30 pm to 3:30 pm - 7:30 pm to 11:30 pm-->Benihana - Le Commodore Hotel.jpg-->1-->0
+il misto-->0-->3.1-->weavers center - clemenceau - beirut-->italian-->17500-->9 am to 12 midnight (mon-fri) - 10 am to 12 midnight...-->Il Misto.jpg-->0-->0
+wa habbet misk-->0-->2.8-->sadat street - hamra - beirut-->lebanese - american-->30000-->9 am to 3 am-->Wa Habbet Misk.jpg-->1-->1
+bay cafe-->0-->2.8-->the courtyard - 1st floor - makdessi street - hamra - beirut-->lebanese - cafe-->30000-->12 noon to 3 am-->Bay Cafe.jpg-->0-->1
+bachir-->0-->3.1-->spears street - sanayeh - beirut-->desserts - ice cream-->4000-->12 noon to 3 am-->Bachir.jpg-->0-->0
+gustav-->0-->4-->makdessi street - hamra - beirut-->desserts - patisserie-->7500-->7 am to 12 midnight (mon-sat) - 12 noon to 12...-->Gustav.jpg-->0-->0
+furn abdel aziz-->0-->2.6-->abdel aziz street - hamra - beirut-->lebanese - bakery-->4000-->5 am to 8 pm-->Furn Abdel Aziz.jpg-->0-->0
+smoothie cup-->0-->2.8-->main street - hamra - beirut-->beverages - juices - desserts - ice cream-->7500-->10 am to 1 am-->Smoothie Cup.jpg-->0-->1
+abawat resto cafe-->0-->3.2-->alameddine buidling - makdessi street - facing hsbc - hamra - beirut-->lebanese - cafe-->22500-->9 am to 5 am (mon-sat) - sun closed-->Abawat Resto Cafe.jpg-->1-->1
+babel bay-->0-->4.5-->zaitunay bay - minet el hosn - beirut-->lebanese - seafood-->105000-->12 noon to 11:30 pm-->Babel Bay.jpg-->1-->1
+t-marbouta-->1-->3.8-->hamra square center - main street - hamra - beirut-->lebanese - cafe-->20000-->10 am to 1 am-->T-marbouta.jpg-->1-->1
+iyyam el loulou-->0-->2.1-->antoine gemayel street - near crown plaza hotel - hamra - beirut-->lebanese - american-->37500-->10 am to 2 am-->Iyyam El Loulou.jpg-->1-->1
+manara palace cafe-->0-->2.5-->paris street - manara - beirut-->lebanese-->37500-->24 hours-->Manara Palace Cafe.jpg-->1-->1
+bagatelle-->0-->3.6-->jeanne d'arc street - hamra - beirut-->french - italian-->60000-->10 am to 11:30 pm-->Bagatelle.jpg-->1-->0
+88-->0-->2.7-->bliss street - near bank audi - hamra - beirut-->lebanese - italian - american - japanese-->25000-->9 am to 5 am-->88.jpg-->1-->1
+madame om-->0-->3.3-->estral center - pavillon street - hamra - beirut-->seafood - italian - lebanese-->25000-->5 pm to 1 am (mon - sun) - 5 pm to 1:30 am (tue) - 5 pm...-->Madame Om.jpg-->0-->1
+mannoush-->0-->3.6-->bliss street - hamra - beirut-->lebanese - bakery - fast food-->5000-->7 am to 9 pm-->Mannoush.jpg-->0-->1
+em melhem-->0-->3.2-->main street - hamra - beirut-->lebanese - fast food - shawarma-->7500-->10 am to 3 am-->Em Melhem.jpg-->0-->0
+the grill room - four seasons hotel beirut-->0-->4.9-->four seasons hotel beirut - 2nd floor - wafic sinno street - minet el hosn - beirut-->steakhouse-->75000-->6:30 am to 12 noon - 12:30 pm to 4 pm - 8 pm to 12...-->The Grill Room - Four Seasons Hotel Beirut.jpg-->1-->1
+go tango-->0-->3-->sadat street - koreitem - beirut-->lebanese - american-->20000-->10 am to 2 am-->Go Tango.jpg-->1-->1
+petit cafe-->0-->2.2-->charles de gaule street - facing blom bank - raouche - beirut-->lebanese - italian - burger - cafe-->40000-->24 hours-->Petit Cafe.jpg-->1-->1
+king fries-->0-->2.7-->main street - facing crown plaza hotel - hamra - beirut-->lebanese - shawarma - fast food-->6000-->11 am to 2 am-->King Fries.jpg-->0-->0
+grand cafe-->0-->2.3-->charles de gaule street - raouche - beirut-->lebanese-->60000-->8 am to 3 am-->Grand Cafe.jpg-->1-->1
+colombiano coffee house-->1-->2.6-->cairo street - near aubmc main entrance - hamra - beirut-->cafe - american - desserts-->7500-->7 am to 10 pm (mon-sat) - 8 am to 8 pm (sun)-->Colombiano Coffee House.jpg-->1-->1
+blu port-->0-->3.6-->zaitunay bay - minet el hosn - beirut-->japanese - american-->50000-->10 am to 12 midnight-->Blu Port.jpg-->1-->1
+boulevard beirut-->0-->3.8-->choucri ghanem street - ain mreisse - beirut-->lebanese-->25000-->6 am to 3 am-->Boulevard Beirut.jpg-->1-->1
+amal bohsali-->0-->3.5-->takieddine street - koreitem - beirut-->desserts-->7000-->7 am to 8 pm (mon-sat) - 7 am to 12 noon (sun)-->Amal Bohsali.jpg-->1-->1
+olio-->0-->3.4-->abdel a'aal street - hamra - beirut-->italian-->35000-->12 noon to 12 midnight-->Olio.jpg-->0-->0
+al rawda cafe-->0-->2.6-->chouran street - manara - beirut-->lebanese-->20000-->7 am to 12 midnight-->Al Rawda Cafe.jpg-->0-->1
+walkman-->0-->3.6-->the courtyard - the alleyway - makdessi street - hamra - beirut-->finger food - french-->50000-->5 pm to 5 am-->Walkman.jpg-->1-->1
+ci gusta-->0-->3.9-->jeanne d'arc street - hamra - beirut-->desserts - ice cream-->10000-->9 am to 1 am-->Ci Gusta.jpg-->0-->1
+sama beirut-->0-->2.8-->main street - hamra - beirut-->lebanese - burger-->30000-->9 am to 3 am-->Sama Beirut.jpg-->1-->1
+zeina sweets-->0-->3.5-->toufic tabbara street - sanayeh - beirut-->desserts-->5000-->6:30 am to 9:30 pm-->Zeina Sweets.jpg-->0-->0
+comsi comsaj-->0-->2.5-->bliss street - hamra - beirut-->american - lebanese - fast food-->10000-->24 hours-->Comsi Comsaj.jpg-->0-->0
+costa coffee-->1-->2.4-->main street - hamra - beirut-->cafe-->12500-->7 am to 2 am-->Costa Coffee.jpg-->1-->1

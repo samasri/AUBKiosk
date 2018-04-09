@@ -1,0 +1,182 @@
+Create Database Sweep;
+Use sweep;
+
+-- Table: Pictures
+CREATE TABLE Pictures (
+    ID integer  NOT NULL   PRIMARY KEY,
+    Name varchar(20)  NOT NULL,
+    picture varchar(200)  NOT NULL
+)ENGINE=InnoDB;
+
+-- tables
+-- Table: Buildings
+CREATE TABLE Buildings (
+	Name varchar(50)  NOT NULL,
+    ID Integer  NOT NULL   PRIMARY KEY,
+    Abbreviation varchar(20),
+    Description varchar(10000) ,
+    Alias varchar(20) ,
+    PicturesId integer
+)ENGINE=InnoDB;
+
+-- Table: Faculty
+CREATE TABLE Faculty (
+    ID integer  NOT NULL   PRIMARY KEY,
+    Name varchar(200)  NOT NULL,
+    ShortName varchar(20)  NOT NULL
+)ENGINE=InnoDB;
+
+-- Table: Department
+CREATE TABLE Department (
+    ID integer  NOT NULL   PRIMARY KEY,
+    Name varchar(30)  NOT NULL,
+    BuildingId integer  NOT NULL,
+    FacultyId integer  NOT NULL
+)ENGINE=InnoDB;
+-- Table: Instructor
+CREATE TABLE Instructor (
+    Name varchar(20)  NOT NULL PRIMARY KEY,
+    Email varchar(20),
+    DepartmentId int,
+    Floor varchar(20),
+	Room varchar(20),
+	BuildingId varchar(200),
+    PicturesId integer
+)ENGINE=InnoDB;
+
+-- Table: Class
+CREATE TABLE Courses (
+    Abbreviation varchar(20) ,
+    Name varchar(20) ,
+    Time varchar(20),
+    InstructorName varchar(200),
+    BuildingName varchar(200) ,
+	BuildingId Integer,
+    labTime varchar(200),
+	buildingLabName varchar(200),
+    buildingLabId varchar(1000)
+)ENGINE=InnoDB;
+
+-- Table: DiscoverOffCampus
+CREATE TABLE DiscoverOffCampus (
+    Name varchar(20)  NOT NULL   PRIMARY KEY,
+    Type varchar(20)  NOT NULL,
+    PriceRange varchar(20) ,
+    Study boolean  NOT NULL,
+    Address varchar(20)  NOT NULL,
+    Area varchar(20)  NOT NULL,
+    Pictures_ID integer,
+    Description varchar(20)  NOT NULL,
+    FOREIGN KEY (Pictures_ID) REFERENCES Pictures (ID)
+)ENGINE=InnoDB;
+
+-- Table: EatOffCampus
+CREATE TABLE EatOffCampus (
+    Name varchar(20)  NOT NULL   PRIMARY KEY,
+    Study varchar(20),
+    Rating varchar(20),
+    Address varchar(20),
+    Cuisine integer,
+    CostPerPerson varchar(20),
+    OperatingHours varchar(20),
+    Pictures varchar(100),
+	Smoking integer,
+	Wifi integer
+)ENGINE=InnoDB;
+
+-- Table: EatOnCampus
+CREATE TABLE EatOnCampus (
+    Name varchar(20)  NOT NULL,
+    Area varchar(20) ,
+    PriceRange varchar(20) ,
+    Buildings_ID integer  NOT NULL,
+    Pictures_ID integer,
+    primary key(Name,Area,Buildings_ID)
+)ENGINE=InnoDB;
+
+-- Table: GatesTunnels
+CREATE TABLE GatesTunnels (
+    Name varchar(20)  NOT NULL PRIMARY KEY,
+    Buildings_ID integer
+)ENGINE=InnoDB;
+
+
+-- Table: Machine
+CREATE TABLE Machine (
+    Type varchar(20)  NOT NULL  ,
+    Bank varchar(20) ,
+    BuildingId integer  NOT NULL,
+    primary key(Type,BuildingId)
+)ENGINE=InnoDB;
+
+-- Table: PaperWork
+CREATE TABLE PaperWork (
+    Name varchar(20)  NOT NULL,
+    Requirement varchar(1000)  ,
+    BuildingId integer  NOT NULL,
+    Description varchar(5000)
+)ENGINE=InnoDB;
+
+-- Table: SpecialPlaces
+CREATE TABLE SpecialPlaces (
+    Name varchar(100)  NOT NULL   PRIMARY KEY,
+    Abbreviation varchar(20),
+    BuildingId integer ,
+    Description varchar(1000)
+)ENGINE=InnoDB;
+
+-- Table: Staff
+CREATE TABLE Staff (
+    Name varchar(20)  NOT NULL PRIMARY KEY,
+    Email varchar(20) ,
+	Department varchar(20) ,
+	Room varchar(20) ,
+    BuildingId int
+)ENGINE=InnoDB;
+
+-- Table: StudyOnCampus
+CREATE TABLE StudyOnCampus (
+    Name varchar(20)  NOT NULL   PRIMARY KEY,
+    Area varchar(20)  NOT NULL,
+    Restrictions varchar(20) ,
+    BuildingsId integer  NOT NULL
+)ENGINE=InnoDB;
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/Buildings.txt' INTO TABLE Buildings
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/Faculty.txt' INTO TABLE Faculty
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/Departments.txt' INTO TABLE Department
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/GatesAndTunnels.txt' INTO TABLE GatesTunnels
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/Instructors.txt' INTO TABLE Instructor
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/Courses.txt' INTO TABLE Courses
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/Staff.txt' INTO TABLE Staff
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/SpecialPlaces.txt' INTO TABLE SpecialPlaces
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/Paperwork.txt' INTO TABLE PaperWork
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/StudyOn.txt' INTO TABLE StudyOnCampus
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/EatOn.txt' INTO TABLE EatOnCampus
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/Machine.txt' INTO TABLE Machine
+FIELDS TERMINATED BY '-->';
+
+LOAD DATA LOCAL INFILE 'C:/Users/ines/Desktop/eat.txt' INTO TABLE eatoffcampus
+FIELDS TERMINATED BY '-->';
