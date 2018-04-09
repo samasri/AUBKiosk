@@ -1,7 +1,7 @@
 # AUBKiosk
 Description: An application accessed via a touch screen/kiosk, featuring an interactive 3D map of AUB’s (the American University of Beirut) campus, designed to help users find their way around campus, or search for important university-related information such as places to eat (on and off-campus), places to study, people, specific buildings, classrooms and departments.
 
-Background and motivation: We are three AUB students who had difficulty navigating through campus and finding our classes when we first came to the university. Hence, we decided to create this 3D map to help new students virtually navigate the university and get familiar with the campus without having to physically attend the campus. In addition, that was our final year project for our undergraduate degree. We also won the final year project award with this project.
+Background and Motivation: We are three AUB students who had difficulty navigating through campus and finding our classes when we first came to the university. Hence, we decided to create this 3D map to help new students virtually navigate the university and get familiar with the campus without having to physically attend the campus. In addition, that was our final year project for our undergraduate degree. We also won the final year project award with this project.
 
 A [trailer video](https://youtu.be/8zhAN19fM0A) was also created to communicate our motivation.
 
@@ -14,7 +14,7 @@ A [trailer video](https://youtu.be/8zhAN19fM0A) was also created to communicate 
 * Path: Plotting the fastest walking route from the kiosk (where this application is installed) to any place on campus.
 
 # Technical description
-We used SketchUp to create the 3D models. Then imported these models to Unity and used them to create an application where a user can freely navigate the map. We also added the features above via C# programming in Unity. In addition, a Java web-scraper was used to collect data from university and touristic (zomato.com) websites in order to load the database.
+We used SketchUp and Blender to create the 3D models. Then we imported these models to Unity and used them to create an application where a user can freely navigate the map. We also added the features above via C# programming in Unity. In addition, a Java web-scraper was used to collect data from university and touristic (zomato.com) websites in order to load the database.
 
 More general and technical documentation can be found in our [documentation repository](https://github.com/samasri/AUBKiosk/tree/master/Documentation).
 
