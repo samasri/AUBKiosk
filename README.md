@@ -16,7 +16,7 @@ A [trailer video](https://youtu.be/8zhAN19fM0A) was also created to communicate 
 # Technical description
 We used SketchUp to create the 3D models. Then imported these models to Unity and used them to create an application where a user can freely navigate the map. We also added the features above via C# programming in Unity. In addition, a Java web-scraper was used to collect data from university and touristic (zomato.com) websites in order to load the database.
 
-More general and technical documentation can be found in our **documentation repository**.
+More general and technical documentation can be found in our [documentation repository](https://github.com/samasri/AUBKiosk/tree/master/Documentation).
 
 # Demo
 This [demo video](https://youtu.be/5xD5sSZjJlE) shows all the features of the project. However, it was only intended as a visual aid when presenting the project and hence it has no sound at all.
@@ -30,4 +30,4 @@ This [demo video](https://youtu.be/5xD5sSZjJlE) shows all the features of the pr
 * **Buildings**: Contains 3D models we created (via sketchup) for AUB buildings.
 
 # Disclaimer
-This repository does not contain all the files needed to create this project. Since Unity has large files that exceed the max file size that we can upload to Github. The Unity project can be found on [this link](https://mailaub-my.sharepoint.com/:u:/g/personal/sha57_mail_aub_edu/EcynrOQpkktLgnvGehTvXq0BVsiZigu9qMEF8Hf8HZlIyQ?e=J71dIV).
+This repository does not contain all the files needed to rebuild the project. Since Unity has large files that exceed the max file size that we can upload to Github. The Unity project can be found on [this link](https://mailaub-my.sharepoint.com/:u:/g/personal/sha57_mail_aub_edu/EcynrOQpkktLgnvGehTvXq0BVsiZigu9qMEF8Hf8HZlIyQ?e=J71dIV).
