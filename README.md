@@ -1,7 +1,11 @@
 # AUBKiosk
 Description: An application accessed via a touch screen/kiosk, featuring an interactive 3D map of AUB’s (the American University of Beirut) campus, designed to help users find their way around campus, or search for important university-related information such as places to eat (on and off-campus), places to study, people, specific buildings, classrooms and departments.
 
-Background and Motivation: We are three AUB students who had difficulty navigating through campus and finding our classes when we first came to the university. Hence, we decided to create this 3D map to help new students virtually navigate the university and get familiar with the campus without having to physically attend the campus. In addition, that was our final year project for our undergraduate degree. We also won the final year project award with this project.
+Background and Motivation: 
+We are three AUB students who had difficulty navigating through campus and finding our classes when we first came to the university. Which is why we decided to find a solution, a 3D map of the University to help new students virtually navigate the campus and get familiar with it without having to be physically there. 
+This project was done in the context of our Bachelor Final Year Project(FYP) at the American University of Beirut (AUB).
+Our team won the Murex Best Innovative Development Project (2015-2016).
+https://website.aub.edu.lb/fas/fas_home/student-resources/Pages/best-computerscience-project.aspx
 
 A [trailer video](https://youtu.be/8zhAN19fM0A) was also created to communicate our motivation.
 
